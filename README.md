@@ -16,6 +16,8 @@
 
 [Qt for Python](https://www.qt.io/qt-for-python)
 
+[Qt for WebAssembly](https://doc.qt.io/qt-5/wasm.html)
+
 [Qt Resource Center](https://resources.qt.io/)
 
 [Qt training by The Qt Company](https://www.qt.io/qt-training/)
