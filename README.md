@@ -31,7 +31,7 @@
 
 [Qt](https://www.qt.io/) is a framework that allowers developeres to create modern UIs & applications for multiple screens accross multiple platforms such as Linux, Windows, macOS, Android, and other embedded systems.
 
-[Qt QML](https://doc.qt.io/qt-5/qtqml-index.html)
+[Qt QML](https://doc.qt.io/qt-5/qtqml-index.html) is a framework for developing applications and libraries with the QML language. It defines and implements the language and engine infrastructure, and provides an API to enable application developers to extend the QML language with custom types and integrate QML code with JavaScript and C++.
 
 [Qt Features](https://www.qt.io/product/features)
 
