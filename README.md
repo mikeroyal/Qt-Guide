@@ -9,6 +9,11 @@
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
   <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/131386330-372f5872-e005-4d35-912a-582e4020535a.png">
+  <br />
+</p>
+ 
+  <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/117718859-8b471d80-b191-11eb-85e1-ad0e4e5500a0.png">
   <br />
 </p>
@@ -16,7 +21,7 @@
 **Qt 3D Studio. Source: [Qt](https://www.qt.io/)**
 
  <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/117718862-8c784a80-b191-11eb-9c96-245e2d5112a3.png">
+ <img src="https://user-images.githubusercontent.com/45159366/131386334-9ba229b9-0279-47fa-b834-09767f28ee2d.png">
   <br />
 </p>
 
