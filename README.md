@@ -17,11 +17,11 @@
  
  1. [Qt Learning Resources](https://github.com/mikeroyal/Qt-Guide#qt-learning-resources)
 
-2. [Design Tools and Add-ons](https://github.com/mikeroyal/Qt-Guide#design-tools-and-addons)
+2. [Design Tools and Add-ons](https://github.com/mikeroyal/Qt-Guide#design-tools-and-add-ons)
 
 3. [Development Tools](https://github.com/mikeroyal/Qt-Guide#development-tools)
 
-4. [Framework Essentials and Add-ons](https://github.com/mikeroyal/Qt-Guide#framework-essentials-add-ons)
+4. [Framework Essentials and Add-ons](https://github.com/mikeroyal/Qt-Guide#framework-essentials-and-add-ons)
 
 5. [Networking](https://github.com/mikeroyal/Qt-Guide#networking)
 
@@ -142,9 +142,9 @@
 
 [QML debugger](https://doc.qt.io/qt-6/qtquick-tools-and-utilities.html#qml-debugger) is a very useful utility that enables:
 
-    - Debugging JavaScript functions.
-    - Executing JavaScript expressions.
-    - Inspecting QML properties.
+   - Debugging JavaScript functions.
+   - Executing JavaScript expressions.
+   - Inspecting QML properties.
 
 [GammaRay™](https://marketplace.qt.io/collections/qt-tools/products/gammaray-1) is a debugger that allows the user to observe behavior and data structures of Qt code inside their program live at runtime.
     
