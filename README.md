@@ -15,7 +15,7 @@
 
 # Table of Contents
  
- 1. [Qt Learning Resources](https://github.com/mikeroyal/Qt-Guide#qt-learning-resources)
+1. [Qt Learning Resources](https://github.com/mikeroyal/Qt-Guide#qt-learning-resources)
 
 2. [Design Tools and Add-ons](https://github.com/mikeroyal/Qt-Guide#design-tools-and-add-ons)
 
@@ -53,17 +53,17 @@
 
 ### Qt training and Courses
 
-[Qt Resource Center](https://resources.qt.io/)
+ - [Qt Resource Center](https://resources.qt.io/)
 
-[Qt training by The Qt Company](https://www.qt.io/qt-training/)
+ - [Qt training by The Qt Company](https://www.qt.io/qt-training/)
 
-[Qt for Educational Programs](https://www.qt.io/qt-for-educational-program)
+ - [Qt for Educational Programs](https://www.qt.io/qt-for-educational-program)
 
-[Get Qt certified](https://www.qt.io/qt-certification/)
+ - [Get Qt certified](https://www.qt.io/qt-certification/)
 
-[QT Framework Courses Online on Udemy](https://www.udemy.com/topic/qt-framework/)
+ - [QT Framework Courses Online on Udemy](https://www.udemy.com/topic/qt-framework/)
 
-[Learning Qt Quick Fundamentals on Pluralsight](https://www.pluralsight.com/courses/qt-quick-fundamentals)
+ - [Learning Qt Quick Fundamentals on Pluralsight](https://www.pluralsight.com/courses/qt-quick-fundamentals)
 
 ### Deploying on Qt
 
