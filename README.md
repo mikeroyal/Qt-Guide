@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/117718856-8a15f080-b191-11eb-89cf-ec335de50792.png">
+ <img src="https://user-images.githubusercontent.com/45159366/161355807-d03abccc-486e-4474-8134-5b75abb18fa1.png">
   <br />
  Qt Guide
 </h1>
@@ -27,6 +27,10 @@
 
 6. [Databases](https://github.com/mikeroyal/Qt-Guide#databases)
 
+7. [KDE and the KDE Plasma Desktop](https://github.com/mikeroyal/Qt-Guide#kde-and-the-kde-plasma-desktop)
+
+8. [Wayland Development](https://github.com/mikeroyal/Qt-Guide#wayland-development)
+
 # Qt Learning Resources
 
 [Back to the Top](https://github.com/mikeroyal/Qt-Guide#table-of-contents)
@@ -37,19 +41,19 @@
 
 [Qt Features](https://www.qt.io/product/features)
 
-[Qt6 QML Book](https://www.qt.io/product/qt6/qml-book) 
-
 [Qt marketplace](https://marketplace.qt.io/)
-
-[Deploy With Qt](https://www.qt.io/deploy)
 
 [Qt for Python](https://www.qt.io/qt-for-python)
 
 [Qt for WebAssembly](https://doc.qt.io/qt-5/wasm.html)
 
-[Qt Resource Center](https://resources.qt.io/)
+[Tools for ActiveQt](https://doc.qt.io/qt-6/activeqt-tools.html)
 
 [Qt Design User Interfaces for Applications](https://www.qt.io/design)
+
+### Qt training and Courses
+
+[Qt Resource Center](https://resources.qt.io/)
 
 [Qt training by The Qt Company](https://www.qt.io/qt-training/)
 
@@ -61,25 +65,33 @@
 
 [Learning Qt Quick Fundamentals on Pluralsight](https://www.pluralsight.com/courses/qt-quick-fundamentals)
 
-[Qt Creator Manual](https://doc.qt.io/qtcreator/index.html)
+### Deploying on Qt
 
-[Qt Design Studio Manual](https://doc.qt.io/qtdesignstudio/index.html)
+ - [Deploy With Qt](https://www.qt.io/deploy)
 
-[Qt Linguist Manual](https://doc.qt.io/qt-6/qtlinguist-index.html)
+ - [Deploying Qt Projects with Boot to Qt](https://doc.qt.io/QtForDeviceCreation/b2qt-deploying-b2qt.html)
 
-[Tools for ActiveQt](https://doc.qt.io/qt-6/activeqt-tools.html)
+ - [Deploying an Application on Android](https://doc.qt.io/qt-6/android-deploy-qt-tool.html)
 
-[Qmake Manual](https://doc.qt.io/qt-6/qmake-manual.html)
+### Qt Books and Manuals
 
-[QDoc Manual](https://doc.qt.io/qt-6/qdoc-index.html)
+ - [Qt6 QML Book](https://www.qt.io/product/qt6/qml-book)
+ 
+ - [QML Coding Guidelines](https://github.com/Furkanzmc/QML-Coding-Guide)
 
-[Qt Distance Field Generator Manual](https://doc.qt.io/qt-6/qtdistancefieldgenerator-index.html)
+ - [Qt Creator Manual](https://doc.qt.io/qtcreator/index.html)
 
-[Qt Assistant Quick Guide](https://doc.qt.io/qt-6/assistant-quick-guide.html)
+ - [Qt Design Studio Manual](https://doc.qt.io/qtdesignstudio/index.html)
 
-[Deploying Qt Projects with Boot to Qt](https://doc.qt.io/QtForDeviceCreation/b2qt-deploying-b2qt.html)
+ - [Qt Linguist Manual](https://doc.qt.io/qt-6/qtlinguist-index.html)
 
-[Deploying an Application on Android](https://doc.qt.io/qt-6/android-deploy-qt-tool.html)
+ - [Qmake Manual](https://doc.qt.io/qt-6/qmake-manual.html)
+
+ - [QDoc Manual](https://doc.qt.io/qt-6/qdoc-index.html)
+
+ - [Qt Distance Field Generator Manual](https://doc.qt.io/qt-6/qtdistancefieldgenerator-index.html)
+
+ - [Qt Assistant Quick Guide](https://doc.qt.io/qt-6/assistant-quick-guide.html)
 
 
 ## Design Tools and Add-ons
@@ -145,6 +157,34 @@
    - Debugging JavaScript functions.
    - Executing JavaScript expressions.
    - Inspecting QML properties.
+
+[PyQt](http://www.riverbankcomputing.com/software/pyqt/) is a set of Python v2 and v3 bindings for Qt and runs on all platforms supported by Qt including Windows, MacOS/X and Linux. 
+
+[PySide](http://qt-project.org/wiki/PySide) is a project that provides LGPL-licensed Python bindings for the Qt. It also includes complete toolchain for rapidly generating bindings for any Qt-based C++ class hierarchies.
+
+[PyOtherSide](http://thp.io/2011/pyotherside/) is a Qt 5 QML Plugin that provides access to a Python 3 interpreter from QML.
+
+[Qml.Net](https://github.com/pauldotknopf/Qml.Net) is a cross-platform integration of Qml/QtQuick for .NET Core/.NET Framework/Mono. It is a binding that brings .NET types into JavaScript with full interoperability.
+
+[DOtherside](https://github.com/filcuc/DOtherSide) is a C language library for creating bindings for the Qt QML language
+
+[QxOrm library](http://www.qxorm.com/) is an Object Relational Mapping (ORM) library for C++/Qt developers.
+
+[QtMongo](https://github.com/manuels/QtMongo) is a Bindings for QML to MongoDB.
+
+[QmlSql](https://github.com/JosephMillsAtWork/QmlSql) is a  couple of wrapper classes that are for QSql.
+
+[Sqlite-editor-qtqml](https://github.com/ndesai/sqlite-editor-qtqml) is a SQLite Editor written in Qt+QML.
+
+[QML CVCamera](https://github.com/chili-epfl/qml-cvcamera) is a QML wrapper for fast camera access using OpenCV. It works on desktop and Android.
+
+[Pot](https://github.com/carlonluca/pot) is a Raspberry Pi accelerated video/image rendering with Qt: custom QML components and QtMultimedia backend.
+
+[QtJoysticks](https://github.com/alex-spataru/QJoysticks) is a library allows your Qt application to read input from both real joysticks/gamepads (using SDL) and a virtual joystick (using the keyboard).
+
+[QmlPedalboard](https://github.com/danieloneill/QmlPedalboard) is a Udev rule, a tiny Arduino program, a Qml Component, and a test Qml app to interface a pedal board with QML.
+
+[QtFirebase](https://github.com/Larpon/QtFirebase) is an effort to bring the Firebase C++ API to Qt + QML.
 
 [GammaRay™](https://marketplace.qt.io/collections/qt-tools/products/gammaray-1) is a debugger that allows the user to observe behavior and data structures of Qt code inside their program live at runtime.
     
@@ -509,6 +549,113 @@ Networking works by piggybacks on a number of different protocols on top of each
 [Lepide SQL Server](https://www.lepide.com/sql-storage-manager/) is an open source storage manager utility to analyse the performance of SQL Servers. It provides a complete overview of all configuration and permission changes being made to your SQL Server environment through an easy-to-use, graphical user interface.
 
 [Sequel Pro](https://sequelpro.com/) is a fast MacOS database management tool for working with MySQL. This SQL management tool helpful for interacting with your database by easily to adding new databases, new tables, and new rows.
+
+# KDE and the KDE Plasma Desktop
+
+[Back to the Top](https://github.com/mikeroyal/Qt-Guide#table-of-contents)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/161355802-089e9fb4-3164-4b4f-997d-c6d56a88c992.png">
+  <br />
+</p>
+
+[KDE e.V.](http://ev.kde.org/) is the foundation which oversees the community for financial and legal representation.
+
+[KDE Free Qt Foundation](https://kde.org/community/whatiskde/kdefreeqtfoundation/) is an organization with the purpose of securing the availability of the Qt toolkit for the development of Free Software and in particular for the development of KDE software. The Foundation has license agreements with The Qt Company, Digia, and Nokia.
+
+[What is KDE?](https://kde.org/community/whatiskde/)
+
+[KDE Wikis](https://wiki.kde.org/)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/161355805-ddd57559-9e0d-45d1-9537-08b6ad537e99.png">
+  <br />
+</p>
+
+[KDE Plasma Desktop](https://kde.org), is a beautiful Windows-like desktop that you use to surf the web, keep in touch with colleagues, friends and family, manage your files, enjoy music and videos; and get creative and productive at work. The KDE community develops and maintains [more than 200 applications](https://apps.kde.org/) which run on any Linux desktop, and other platforms such as [KDE Applications for the Windows Desktop](https://apps.kde.org/platforms/windows/).
+
+<h3 align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/93250998-758b7080-f748-11ea-814e-40e04ac3df4b.jpeg">
+  <br />
+  KDE Plasma Desktop
+</h3>
+
+## KDE Plasma Discover Software Center
+
+[Discover - KDE Community Wiki](https://community.kde.org/Discover)
+
+[Discover](https://apps.kde.org/discover/) is a software package mangaer that manages software from multiple sources, including your operating system's software repository, Flatpak repos, the Snap store, or even AppImages from store.kde.org. 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/145691934-52154d53-2457-4226-be11-ee23d4520c74.png">
+<br />
+ KDE Discover Software Center
+</p>
+
+# Wayland Development
+
+[Back to the Top](https://github.com/mikeroyal/Qt-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/104235197-79cf4e00-5409-11eb-97a6-a12f7bd8ad2a.png">
+  <br />
+</p>
+
+## Wayland Learning Resources
+
+[Wayland](https://wayland.freedesktop.org) is a protocol for a compositor to talk to its clients as well as a C library implementation of that protocol. The compositor can be a standalone display server running on Linux kernel modesetting and evdev input devices, an [X application](https://www.x.org/wiki/XServer/), or a wayland client itself.
+
+[QtWayland](https://wiki.qt.io/QtWayland) is a Qt 5 module that wraps the functionality of Wayland. QtWayland is separated into a client and server side. The client side is the wayland platform plugin, and provides a way to run Qt applications as Wayland clients.
+
+[Qt Wayland Compositor](https://doc.qt.io/qt-5/qtwaylandcompositor-index.html)
+
+[Qt Wayland Compositor Examples](https://doc.qt.io/qt-5/qtwaylandcompositor-examples.html)
+
+[Wayland Architecture](https://wayland.freedesktop.org/architecture.html)
+
+[Wayland Documentation](https://wayland.freedesktop.org/docs/html/)
+
+[Sotfware Toolkits that have Wayland support right now](https://wayland.freedesktop.org/toolkits.html)
+
+[Contribution instructions for Wayland](https://gitlab.freedesktop.org/wayland/wayland/blob/master/CONTRIBUTING.md)
+
+[Contribution instructions for Weston](https://gitlab.freedesktop.org/wayland/weston/blob/master/CONTRIBUTING.md)
+
+[Reporting Wayland bugs](https://gitlab.freedesktop.org/wayland/wayland/issues)
+
+[Reporting Weston bugs](https://gitlab.freedesktop.org/wayland/weston/issues)
+
+[WSLG: X11 and Wayland Applications in Windows Subsystem for Linux(WSL2)](https://linuxplumbersconf.org/event/9/contributions/611/attachments/702/1298/XDC2020_-_X11_and_Wayland_applications_in_WSL.pdf)
+
+[Wayland on ArchWiki](https://wiki.archlinux.org/index.php/Wayland)
+
+[Sway on ArchWiki](https://wiki.archlinux.org/index.php/Sway)
+
+[Wayland on Ubuntu Wiki](https://wiki.ubuntu.com/Wayland)
+
+[Wayland on Debian Wiki](https://wiki.debian.org/Wayland)
+
+[The Wayland Display Server on Fedora Docs](https://docs.fedoraproject.org/en-US/fedora/rawhide/system-administrators-guide/Wayland/)
+
+[Wayland features on Fedora Project Wiki](https://fedoraproject.org/wiki/Wayland_features)
+
+[Wayland on GNOME Wiki](https://wiki.gnome.org/Initiatives/Wayland)
+
+[KWin/Wayland on KDE Community Wiki](https://community.kde.org/index.php?title=KWin/Wayland)
+
+[Wayland Desktop Landscape on Gentoo Wiki](https://wiki.gentoo.org/wiki/Wayland_Desktop_Landscape)
+
+[Wayland in Void Linux Handbook](https://docs.voidlinux.org/config/graphical-session/wayland.html)
+
+[Wayland on Enlightenment DE](https://www.enlightenment.org/about-wayland)
+
+## Wayland Tools
+
+[Weston](https://gitlab.freedesktop.org/wayland/weston) is a lightweight and functional Wayland compositor.
+
+[XWayland](https://wayland.freedesktop.org/xserver.html) is an X Server running as a Wayland client(for backwards compatibility), allowing the [Xorg server](https://www.x.org/wiki/XServer/) can be modified to use wayland input devices for input and forward either the root window or individual top-level windows as wayland surfaces.
+
+[KWayland](https://github.com/KDE/kwayland-server) is a Qt-style API to interact with the wayland-client and wayland-server API.
 
 
 ## Contribute
