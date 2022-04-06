@@ -657,6 +657,25 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [KWayland](https://github.com/KDE/kwayland-server) is a Qt-style API to interact with the wayland-client and wayland-server API.
 
+[NVIDIA Wayland EGL External Platform library](https://github.com/NVIDIA/egl-wayland) is a work-in-progress implementation of a EGL External Platform library to add client-side Wayland support to EGL on top of EGLDevice and EGLStream families of extensions.
+
+[NVIDIA EGL External Platform Interface](https://github.com/NVIDIA/eglexternalplatform) is a work-in-progress specification of the EGL External Platform interface for writing EGL platforms and their interactions with modern window systems on top of existing low-level EGL platform implementations. This keeps window system implementation specifics out of EGL drivers by using application-facing EGL functions.
+
+[GTK](https://www.gtk.org/) is a free and open source cross-platform widget toolkit for creating graphical user interfaces developed by [GNOME Project](https://www.gnome.org/). It is one of the most popular toolkits for the Wayland and X11 windowing.
+
+[Sway](https://swaywm.org/) is an [i3](https://i3wm.org/)-compatible Wayland compositor.
+
+[wlroots](https://github.com/swaywm/wlroots) is a modular Wayland compositor library.
+
+[WayfireWM](https://github.com/WayfireWM/wayfire) is a 3D Wayland compositor, inspired by [Compiz](https://launchpad.net/compiz) and based on [wlroots](https://github.com/swaywm/wlroots).
+
+[SDDM](https://github.com/sddm/sddm) is a modern display manager for X11 and Wayland aiming to be fast, simple and beautiful. It uses modern technologies like QtQuick, which in turn gives the designer the ability to create smooth, animated user interfaces.
+
+[x11docker](https://github.com/mviereck/x11docker) is an application that you allows to run graphical desktop applications (and entire desktops) in Docker Linux containers.
+
+[Mako](https://github.com/emersion/mako) is a lightweight notification daemon for Wayland. It also works on [Sway](https://swaywm.org/).
+
+[Wayland-rs](https://github.com/Smithay/wayland-rs) is a Rust implementation of the wayland protocol (client and server).
 
 ## Contribute
 
